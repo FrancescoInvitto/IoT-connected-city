@@ -1,0 +1,18 @@
+In order to execute the application follow these steps:
+	1. runs the Bridges Java class
+	2. runs the ControlRoom Java class
+	3. runs the City Java class.
+	
+If you want to modify the number of bridges:
+	1. change the NBRIDGES variable value in the Bridges Java class
+	   to select how many pairs of traffic lights create
+	2. change the NBRIDGES variable value in the City Java class
+	   to tell how many bridges the citizens can choose from
+	3. change the NBRIDGES variable value in the ControlRoom Java class
+	   to create the controllers for all the bridges.
+	   
+If you want to modify the number of citizens change the N variable in the 
+City Java class.
+
+If you want to change the swapping period change the T variable value in the
+ControlRoom Java class.
